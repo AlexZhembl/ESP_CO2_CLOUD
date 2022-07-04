@@ -11,7 +11,7 @@ Simple IoT solution for air purity monitoring using esp8266 using MH-Z19b
 #### How to use?
 1. Just plug in the device with usb port to any charging socket with at least 0.5amps currency (your phone charger is suitable)
 2. Next wait untill device will collebrate (about 1 min)
-3. Observe the light: it will change gradient from green to red depends on CO2 level (GREEN is for <strong>0-400ppm</strong>, RED is for <strong>2000ppm and above</strong>.
+3. Observe the light: it will change gradient from green to red depends on CO2 level (GREEN is for <strong>0-400ppm</strong>, RED is for <strong>2000ppm and above</strong>)
 <img src="https://user-images.githubusercontent.com/7920555/177146495-697ed2cd-63e8-481f-ad9f-602f2b557ae8.jpg" width="600" height="500">
 
 #### PCB schema and layout
